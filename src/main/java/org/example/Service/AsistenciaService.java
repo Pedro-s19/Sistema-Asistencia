@@ -1,8 +1,8 @@
-package Service;
+package org.example.Service;
 
-import Model.EstadoAsistencia;
-import Model.Estudiante;
-import Model.RegistroAsistencia;
+import org.example.Model.EstadoAsistencia;
+import org.example.Model.Estudiante;
+import org.example.Model.RegistroAsistencia;
 
 import java.time.LocalDate;
 import java.util.List;

@@ -1,6 +1,6 @@
-package Service;
+package org.example.Service;
 
-import Model.Estudiante;
+import org.example.Model.Estudiante;
 
 import java.util.List;
 
